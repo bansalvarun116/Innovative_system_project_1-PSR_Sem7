@@ -15,3 +15,19 @@ Applications of such a system are vast. Some of the use cases are listed below:
 7. Recruiting. Software is used during job interviews to understand the credibility of a candidate.
 8. Call center intelligent routing. An angry customer can be detected from the beginning and can be routed to a well-trained agent who can also monitor in real-time how the conversation is going and adjust.
 
+the working-flow of the project is :
+![alt text](https://github.com/bansalvarun116/Innovative_system_project_1-PSR_Sem7/blob/main/workflow%20(2).jpeg)
+
+
+Images of the working projects are:
+  HOME PAGE
+![alt text](https://github.com/bansalvarun116/Innovative_system_project_1-PSR_Sem7/blob/main/working/home_page.PNG)
+  Uploading the image (Happy)
+![alt text](https://github.com/bansalvarun116/Innovative_system_project_1-PSR_Sem7/blob/main/working/happy.PNG)
+  Result Page
+![alt text](https://github.com/bansalvarun116/Innovative_system_project_1-PSR_Sem7/blob/main/working/happy_result.PNG)
+  Uploading the Image (Angry)
+![alt text](https://github.com/bansalvarun116/Innovative_system_project_1-PSR_Sem7/blob/main/working/angry.PNG)
+  Result Page
+![alt text](https://github.com/bansalvarun116/Innovative_system_project_1-PSR_Sem7/blob/main/working/angry_result.PNG)
+
